@@ -2,12 +2,14 @@ body{
     background-color: aquamarine;
     
 }
-.btn{
-    display: flex;
-    justify-content:space-evenly;
-    margin-left: 30%;
-    margin-right: 30%;
+.btn a{
     
+    margin: 0 10px;
+    text-align:center ;
+
+}
+.btn{
+    text-align:center ;
 }
 
 h1 {
